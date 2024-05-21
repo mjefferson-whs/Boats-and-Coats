@@ -5,3 +5,5 @@ for n in range(500):
 
 if "lollies":
   print("Strawberry")
+
+print(2)
